@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Encrypt File
 
 A small desktop tool to encrypt and decrypt files with a key you control. Pick files, load or generate a key, click **Encrypt** or **Decrypt**. Nothing leaves your computer.
